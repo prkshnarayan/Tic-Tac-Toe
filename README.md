@@ -1,17 +1,46 @@
-# 🎮 Tic-Tac-Toe Game
+# 🎮 Tic-Tac-Toe Web Game
 
-A classic 2-player Tic-Tac-Toe (X and O) game built using Python and a graphical user interface with `tkinter`.
+🔗 **[Live Demo](https://prkshnarayan.github.io/Tic-Tac-Toe/)**
 
-This simple game allows two players to play turn-by-turn on a 3x3 grid until one wins or the game ends in a draw.
+An enhanced 2-player **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **JavaScript**.  
+This interactive game includes a modern responsive design, player name input, live score tracking, and win/draw detection — all in the browser with no backend!
+
+---
+
+## 🧩 Features
+
+- 🎯 2-player turn-based game (X and O)
+- ✍️ Custom player name input
+- 📈 Live scoreboard (persistent until reload)
+- 🧠 Smart win/draw detection logic
+- 🖼️ Highlight winning combination
+- 🔁 One-click game restart
+- 📱 Mobile responsive layout
+- 💡 Visual feedback with modern styling and smooth transitions
 
 ---
 
-## 🛠 Features
+## 🖥️ Technologies Used
 
-- 2-player game with turn-based logic
-- GUI built using Python's `tkinter` library
-- Win detection and draw condition check
-- Automatic disabling of buttons after the game ends
-- Restartable with a fresh grid each time
+- **HTML5** – Structure and layout  
+- **CSS3** – Responsive and aesthetic design with custom properties (variables)  
+- **JavaScript (ES6)** – Game logic, DOM manipulation, state management
 
 ---
+
+## 🚀 Getting Started
+
+### ✅ View Online
+
+Play instantly via GitHub Pages:  
+👉 [https://prkshnarayan.github.io/Tic-Tac-Toe/](https://prkshnarayan.github.io/Tic-Tac-Toe/)
+
+### 🛠️ Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prkshnarayan/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
+![image](https://github.com/user-attachments/assets/af6454d0-83fd-4277-88bf-42c387f27f0e)
+![image](https://github.com/user-attachments/assets/f3b4d1b2-9b4e-4fe4-a9e3-266471e69930)
+
